@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tex_background.png</Source>
+      <Name>tex_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_background.xnb</Output>
+      <Time>2015-02-26T19:30:39.5037335-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_cookieBig.png</Source>
+      <Name>tex_cookieBig</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_cookieBig.xnb</Output>
+      <Time>2015-02-28T14:09:30.684423-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_cookieMed.png</Source>
+      <Name>tex_cookieMed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_cookieMed.xnb</Output>
+      <Time>2015-02-28T14:09:30.6904256-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_cookieSml.png</Source>
+      <Name>tex_cookieSml</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_cookieSml.xnb</Output>
+      <Time>2015-02-28T14:09:32.0390829-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_square.png</Source>
+      <Name>tex_square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_square.xnb</Output>
+      <Time>2015-02-28T15:36:56.2117956-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_bullet.png</Source>
+      <Name>tex_bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_bullet.xnb</Output>
+      <Time>2015-03-05T20:41:59.8624823-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_ironBall.png</Source>
+      <Name>tex_ironBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_ironBall.xnb</Output>
+      <Time>2015-03-05T20:41:59.8664859-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_logo.png</Source>
+      <Name>tex_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_logo.xnb</Output>
+      <Time>2015-03-12T21:41:42.4016999-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_shipThrust.png</Source>
+      <Name>tex_shipThrust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_shipThrust.xnb</Output>
+      <Time>2015-03-14T18:57:07.9606546-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_ship.png</Source>
+      <Name>tex_ship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_ship.xnb</Output>
+      <Time>2015-03-14T18:59:23.6472795-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_laser.png</Source>
+      <Name>tex_laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_laser.xnb</Output>
+      <Time>2015-03-16T12:49:30.1514893-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_shield.png</Source>
+      <Name>tex_shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_shield.xnb</Output>
+      <Time>2015-03-16T12:51:36.4247234-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_powerup0.png</Source>
+      <Name>tex_powerup0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_powerup0.xnb</Output>
+      <Time>2015-03-16T14:48:01.5072334-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_powerup1.png</Source>
+      <Name>tex_powerup1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_powerup1.xnb</Output>
+      <Time>2015-03-16T14:48:01.5102358-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_powerup2.png</Source>
+      <Name>tex_powerup2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_powerup2.xnb</Output>
+      <Time>2015-03-16T14:48:01.5132392-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_powerup3.png</Source>
+      <Name>tex_powerup3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_powerup3.xnb</Output>
+      <Time>2015-03-16T14:48:01.5162398-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_music.wav</Source>
+      <Name>sfx_music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_music.xnb</Output>
+      <Time>2015-03-14T18:13:50.0026021-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_menu.wav</Source>
+      <Name>sfx_menu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_menu.xnb</Output>
+      <Time>2015-03-14T18:19:53.5247567-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_bullet.wav</Source>
+      <Name>sfx_bullet</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_bullet.xnb</Output>
+      <Time>2015-03-14T18:20:41.9498102-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_cookie.wav</Source>
+      <Name>sfx_cookie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_cookie.xnb</Output>
+      <Time>2015-03-14T18:26:41.2941682-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_ironBall.wav</Source>
+      <Name>sfx_ironBall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_ironBall.xnb</Output>
+      <Time>2015-03-14T18:40:31.8293745-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_thrust.wav</Source>
+      <Name>sfx_thrust</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_thrust.xnb</Output>
+      <Time>2015-03-14T19:34:05.2168186-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_level.wav</Source>
+      <Name>sfx_level</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_level.xnb</Output>
+      <Time>2015-03-14T19:55:42.3077137-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_laser.wav</Source>
+      <Name>sfx_laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_laser.xnb</Output>
+      <Time>2015-03-16T13:07:44.8741596-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_nuke.wav</Source>
+      <Name>sfx_nuke</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_nuke.xnb</Output>
+      <Time>2015-03-16T15:59:54.386729-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fnt_text.spritefont</Source>
+      <Name>fnt_text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\fnt_text.xnb</Output>
+      <Time>2015-03-16T11:55:24.3188426-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_btnExit.png</Source>
+      <Name>tex_btnExit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_btnExit.xnb</Output>
+      <Time>2015-03-12T21:41:42.3356567-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_btnStart.png</Source>
+      <Name>tex_btnStart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_btnStart.xnb</Output>
+      <Time>2015-03-12T21:41:42.3917007-07:00</Time>
+    </Item>
+    <Item>
+      <Source>tex_star.png</Source>
+      <Name>tex_star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_star.xnb</Output>
+      <Time>2015-03-16T18:03:31.4171404-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_gameover.wav</Source>
+      <Name>sfx_gameover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_gameover.xnb</Output>
+      <Time>2015-03-16T18:22:14.0626519-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx_star.wav</Source>
+      <Name>sfx_star</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_star.xnb</Output>
+      <Time>2015-03-16T18:22:14.0656539-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3E12FD46-6855-4C5A-823B-344C3D6970BC}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-24T22:17:49.4819852-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

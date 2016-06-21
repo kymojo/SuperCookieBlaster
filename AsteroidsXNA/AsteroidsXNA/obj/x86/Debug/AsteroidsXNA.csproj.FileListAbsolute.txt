@@ -1,0 +1,37 @@
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_music.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_menu.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_bullet.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_cookie.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_ironBall.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_ship.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_background.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_cookieBig.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_cookieMed.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_cookieSml.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_square.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_bullet.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_ironBall.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_logo.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_shipThrust.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_thrust.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_level.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\fnt_text.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_laser.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_shield.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_laser.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_powerup1.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_powerup2.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_powerup3.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_powerup0.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_nuke.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Super Cookie Blaster.exe
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Super Cookie Blaster.pdb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\obj\x86\Debug\Super Cookie Blaster.exe
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\obj\x86\Debug\Super Cookie Blaster.pdb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_btnExit.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_btnStart.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\obj\x86\Debug\AsteroidsXNA.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\tex_star.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_gameover.xnb
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNA\bin\x86\Debug\Content\sfx_star.xnb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidsXNA", "AsteroidsXNA\AsteroidsXNA\AsteroidsXNA.csproj", "{3105D7A4-4C0F-4CA8-9280-A2A240A97C88}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AsteroidsXNAContent", "AsteroidsXNA\AsteroidsXNAContent\AsteroidsXNAContent.contentproj", "{3E12FD46-6855-4C5A-823B-344C3D6970BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3105D7A4-4C0F-4CA8-9280-A2A240A97C88}.Debug|x86.ActiveCfg = Debug|x86
+		{3105D7A4-4C0F-4CA8-9280-A2A240A97C88}.Debug|x86.Build.0 = Debug|x86
+		{3105D7A4-4C0F-4CA8-9280-A2A240A97C88}.Release|x86.ActiveCfg = Release|x86
+		{3105D7A4-4C0F-4CA8-9280-A2A240A97C88}.Release|x86.Build.0 = Release|x86
+		{3E12FD46-6855-4C5A-823B-344C3D6970BC}.Debug|x86.ActiveCfg = Debug|x86
+		{3E12FD46-6855-4C5A-823B-344C3D6970BC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

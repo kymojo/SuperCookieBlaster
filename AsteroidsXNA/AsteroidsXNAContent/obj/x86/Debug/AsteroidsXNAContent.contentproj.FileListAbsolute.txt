@@ -1,0 +1,1 @@
+C:\Users\Kyle\OneDrive\My Work\Programming\School\CSCD371\final\AsteroidsXNA\AsteroidsXNA\AsteroidsXNAContent\obj\x86\Debug\AsteroidsXNAContent.contentprojResolveAssemblyReference.cache
